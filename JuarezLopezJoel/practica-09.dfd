@@ -1,0 +1,47 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+31
+'Ingrese la temperatura actual'
+5
+1
+11
+temperatura
+4
+1
+27
+'Ingrese la humedad actual'
+5
+1
+7
+humedad
+6
+2
+6
+tempOk
+35
+temperatura>=18 AND temperatura<=24
+9
+humedadOk
+27
+humedad>=40 AND humedad<=60
+6
+2
+18
+operacionNormativa
+20
+tempOk AND humedadOk
+12
+alertaRiesgo
+29
+temperatura>24 AND humedad>60
+4
+1
+105
+'El estado actual es:' , 'operacion normativa:' , operacionNormativa , 'alerta de riesgo:' , alertaRiesgo
+1

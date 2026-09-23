@@ -1,0 +1,47 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+28
+'Ingresa el radio del ducto'
+5
+1
+1
+R
+4
+1
+31
+'Ingresa la longitud del ducto'
+5
+1
+1
+L
+6
+1
+2
+pi
+10
+3.14159265
+6
+3
+2
+A1
+7
+ pi*R*R
+2
+A2
+11
+ 2*pi*R*R*L
+2
+A3
+8
+pi*R*R*L
+4
+1
+100
+'Area (Mcuadrados) ' , A1 , ' Area exterior (Mcuadrados) ' ,  A2 , ' Volumen Total: (Mcubicos) ' ,A3
+1
